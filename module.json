@@ -1,0 +1,13 @@
+{
+  "id": "marcuss-test-module",
+  "title": "The module of all time!",
+  "description": "This is a test module, where I'm going to be testing out module features",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Marcus"
+    }
+  ],
+  "scripts": ["/scripts"],
+  "manifest": ""
+}
